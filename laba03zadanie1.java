@@ -72,7 +72,6 @@ class Person {
                "\nИмя: " + getName() +
                "\nДень рождения: " + getBirthday() +
                "\nПол: " + getSex() ;
-
     }
 }
 
